@@ -1,12 +1,12 @@
-Olá! Sou estudante de Engenharia de Software e venho aprofundando meus conhecimentos na área de programação por meio da faculdade Estácio e do curso de Java na Udemy.
-Sou uma pessoa focada, determinada e com um forte senso de caráter. Minha determinação é uma característica marcante, que me impulsiona a superar desafios e a buscar sempre o melhor resultado, independentemente das dificuldades que encontro pelo caminho.
+Sou um profissional em transição de carreira, atualmente cursando Engenharia de Software e determinado a construir uma trajetória sólida no desenvolvimento de software. Após adquirir experiência em liderança e gestão de projetos na Construção Civil, decidi seguir minha verdadeira paixão: a tecnologia.
 
+Tenho habilidades práticas em desenvolvimento Full-Stack, com foco tanto em Back-End, utilizando Java e integração com APIs, quanto em Front-End, aplicando HTML e CSS para criar interfaces intuitivas e funcionais. Domino ferramentas como Git/GitHub, essenciais para controle de versionamento e colaboração em equipe, além de possuir amplo conhecimento em ambientes de desenvolvimento como Eclipse e VS Code.
 
-Estou em transição de carreira da área de Construção Civil nos Estados Unidos para a área de desenvolvimento Back-End.
-Como construtor civil nos Estados Unidos, melhorei minhas habilidades de comunicação, liderança e resolução de problemas, explorando o Inglês e o Espanhol como formas de comunicação com pessoas de vários países, em prol da execução das tarefas.
+Minha experiência inclui a realização de projetos que priorizam eficiência, inovação e facilidade de manutenção. Entre eles, destaco o desenvolvimento de um sistema de cadastro e listagem de produtos, bem como a criação de um aplicativo de busca de endereços por CEP integrado a uma API pública. Esses projetos foram guiados por princípios de Clean Code e orientados para a experiência do usuário.
 
+Com fluência em inglês e espanhol técnico, trago a capacidade de colaborar em ambientes multiculturais, somada à minha experiência internacional, que fortaleceu minha adaptabilidade e pensamento crítico.
 
-Minhas próximas pretensões profissionais estão voltadas para a primeira oportunidade como estagiário e, posteriormente, efetivação como júnior, sempre priorizando a adoção de boas práticas de desenvolvimento.
-Fico à disposição para discutirmos mais sobre essa oportunidade.
+Atualmente, busco oportunidades para atuar como Desenvolvedor Full-Stack, onde eu possa aplicar minhas habilidades técnicas, contribuir para projetos inovadores e crescer junto a equipes engajadas em um ambiente colaborativo e desafiador.
+
 
 E-mail: vitorreisprog@outlook.com
